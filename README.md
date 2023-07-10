@@ -1,2 +1,2 @@
 # Simple_linear_regression
-This repository demonstrates the implementation of simple linear regression(SLR),
+This repository demonstrates the implementation of simple linear regression(SLR),a fundamental technique in predictive modeling and statistical analysis. It showcases code and documentation that illustrate the process of fitting a linear model to a dataset, estimating the relationship between a dependent variable and a single independent variable, and making predictions based on the model. The repository serves as a practical resource for understanding and applying simple linear regression in data science projects."
